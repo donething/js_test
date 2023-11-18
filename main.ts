@@ -1,3 +1,3 @@
-import fetchBaiduHomepage from "./baidu/baidu"
+import fetchBaiduHomepage from "./baidu"
 
 fetchBaiduHomepage();
